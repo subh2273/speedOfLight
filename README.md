@@ -9,4 +9,6 @@ I have a great fascination towards space and for long I really wanted to impleme
 
 Below is the he distance and time that sunlight travels to the different Planets.
 
+![1_1pFK9To7TnaKJgsmjWmDvw](https://user-images.githubusercontent.com/12607006/170480515-eff7a327-0316-4806-8de8-03f28557445c.gif)
+
 ![1_dBLYz5Fd55F3cDcJYBj2Ig](https://user-images.githubusercontent.com/12607006/170478007-9003a860-7ebd-4569-8e83-c8aa456e0d6d.gif)
